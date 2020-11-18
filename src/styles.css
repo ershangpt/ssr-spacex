@@ -13,12 +13,12 @@ body {
   font-size: 14px;
 }
 
-.header { 
+header > h1 { 
     padding: 0 10px;
     font-size: 22px;
 }
 
-.footer {
+footer > h4 {
     text-align: center;
 }
 
